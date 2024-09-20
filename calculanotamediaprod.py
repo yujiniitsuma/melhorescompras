@@ -16,4 +16,4 @@ if media > 6:
 else:
     print("Que pena, esse produto inadequado e com muitas reclamações!")
 	
-	   
+		   
