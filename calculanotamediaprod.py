@@ -5,8 +5,9 @@ nota1 = int(input("Digite a primeira nota avaliada do produto pelo cliente: "))
 
 nota2 = int(input("Digite a segunda nota avaliada do produto pelo cliente: "))
 
+nota3 = int(input("Digite a segunda nota avaliada do produto pelo cliente: "))
 
-media = (float(nota1) + float(nota2))/7
+media = (float(nota1) + float(nota2) + float(nota3))/3
 
 print("A média alcançada foi: %s" % media)
 
